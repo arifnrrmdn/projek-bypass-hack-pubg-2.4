@@ -8,7 +8,9 @@
 
 ## ui ORIGINAL 2.4
 
-Timpa ui bila terjadi error [ui original](https://semawur.com/5mm4) 
+Bila terjadi error pada emulator timpai dengan ui original
+
+[Download](https://semawur.com/5mm4) 
 
 ## Saran dan masukan
 
